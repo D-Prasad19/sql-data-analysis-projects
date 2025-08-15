@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="256" width="256" src="https://img.icons8.com/fluency/256/000000/walmart.png"/>
+  <img height="256" width="256" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Walmart_logo.svg/512px-Walmart_logo.svg.png"/>
 </div>
 
 # Walmart SQL Data Analysis
